@@ -1,0 +1,66 @@
+const menuData = [
+  {
+    id: 1,
+    title: "Masala Dosa",
+    price: 40,
+    img: "./images/item-1.jpeg",
+    desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. dolore voluptatem molestiae aperiam iusto delectus inventore.`,
+  },
+  {
+    id: 2,
+    title: "Idli",
+    price: 25,
+    img: "./images/item-2.jpg",
+    desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. dolore voluptatem molestiae aperiam iusto delectus inventore.`,
+  },
+  {
+    id: 3,
+    title: "Mendu Vada",
+    price: 30,
+    img: "./images/item-3.jpg",
+    desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. dolore voluptatem molestiae aperiam iusto delectus inventore.`,
+  },
+  {
+    id: 4,
+    title: "Samosa",
+    price: 25,
+    img: "./images/item-4.jpg",
+    desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. dolore voluptatem molestiae aperiam iusto delectus inventore.`,
+  },
+  {
+    id: 5,
+    title: "Vada Pav",
+    price: 20,
+    img: "./images/item-5.jpg",
+    desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. dolore voluptatem molestiae aperiam iusto delectus inventore.`,
+  },
+  {
+    id: 6,
+    title: "Pav Bhaji",
+    price: 100,
+    img: "./images/item-6.jpeg",
+    desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. dolore voluptatem molestiae aperiam iusto delectus inventore.`,
+  },
+  {
+    id: 7,
+    title: "Misal Pav",
+    price: 50,
+    img: "./images/item-7.jpg",
+    desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. dolore voluptatem molestiae aperiam iusto delectus inventore.`,
+  },
+  {
+    id: 8,
+    title: "Upma",
+    price: 30,
+    img: "./images/item-8.jpg",
+    desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. dolore voluptatem molestiae aperiam iusto delectus inventore.`,
+  },
+  {
+    id: 9,
+    title: "Poha",
+    price: 35,
+    img: "./images/item-9.jpg",
+    desc: `Lorem ipsum dolor sit amet consectetur adipisicing elit. dolore voluptatem molestiae aperiam iusto delectus inventore.`,
+  },
+];
+export default menuData;
